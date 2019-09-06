@@ -1,4 +1,4 @@
-# CryptographyEncryption-C-
+# CryptographyEncryption-C#
 Implementation of a class in C # to use cryptographic method
 
 
