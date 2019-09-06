@@ -64,7 +64,7 @@ public class HillCipher
         for (var i = 0; i < rows; i++)
             for (var j = 0; j < columns; j++)
                 for (var k = 0; k < m1.GetLength(1); k++)
-                    matrix[i, j] += m1[i, k] * m2[k, j];
+                    matrix[i,j] += m1[i,k] * m2[k,j];
 
         return matrix;
     }
